@@ -1,0 +1,62 @@
+.blue{
+  height: 50px;
+  padding:0;
+  background-color: blue;
+  color:white;
+  border: 1px solid blue;
+  border-radius: 5px;
+  margin-bottom:10px;
+  cursor: pointer;
+
+}
+
+.red{
+  height: 50px;
+  padding:0;
+  background-color: red;
+  margin: 0;
+  border: 1px solid blue;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 20px;
+}
+
+
+h1{
+  margin-bottom:30px;
+}
+
+.col-md-3{
+  text-align:center;
+  font-size:20px;
+  padding-top:10px;
+  color:white;
+}
+
+.light{
+  height:50px;
+  background-color: RGB(231,231,231);
+  margin-top: 0px;
+  border: 1px solid blue;
+  border-radius: 5px;
+}
+
+.col-md-offset-2{
+  border: 1px solid blue;
+  width:100%;
+  margin: 0
+
+}
+
+.second{
+  background-color: RGB(231,231,231);
+  height:600px;
+  border: 1px solid blue;
+}
+
+.label{
+  border: 1px solid black;
+  height:50px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
